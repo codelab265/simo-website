@@ -1,0 +1,42 @@
+/*
+Template Name: Tech IT
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************contact****************/
+#contact_top{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+#contact{
+padding-top:40px;
+padding-bottom:40px;
+background: #284676;
+ }
+.contact_2lil .form-control{
+background:none;
+height:50px;
+font-size:18px;
+color:#999; 
+border-color: #415f8f; 
+ }
+.contact_2l h5{
+color:#99b5e3!important; 
+ }
+/*********************contact_end****************/
+
+
+@media screen and (max-width : 767px){
+.contact_top2i{
+margin-top:10px; 
+ }
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }

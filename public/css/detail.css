@@ -1,0 +1,47 @@
+/*
+Template Name: Tech IT
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************service_detail****************/
+#serv_dt{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.serv_dt1l1 h5 a{
+background:#f4f4f4;
+display:block;
+padding:15px;
+font-weight:normal; 
+ }
+.serv_dt1l1 h5 a:hover{
+background:#0c5adb;
+color:#fff;
+ }
+.serv_dt1l1 h5 a i{
+margin-top:5px;
+ }
+.serv_dt1l1 h5{
+margin-bottom:2px; 
+ }
+.serv_dt1l2{
+background:#0c5adb;
+padding:40px 20px;
+ }
+/*********************service_detail_end****************/
+
+
+@media screen and (max-width : 767px){
+.serv_dt1rm{
+margin-top:20px; 
+ }
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }

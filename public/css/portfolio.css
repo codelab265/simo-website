@@ -1,0 +1,68 @@
+/*
+Template Name: Tech IT
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************portfolio****************/
+#portfolio{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.team_h_2m2{
+background: #0000008f!important;
+top:0;
+width:100%;
+height:100%;
+padding:20px 15px;
+padding-top:120px;
+display:none;
+ }
+.team_h_2m:hover .team_h_2m2{
+display:block;
+ }
+.portfolio_1 .nav-tabs {
+border:none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+color: #fff;
+background-color: #0c5adb;
+border:none;
+}
+.nav-tabs .nav-link {
+background:#f4f4f4;
+border:none;
+border-radius:5px;
+margin-left:5px;
+margin-right:5px;
+font-size:18px;
+padding:10px 28px;
+color:#333;
+}
+.nav-tabs .nav-link:hover {
+color: #fff;
+background-color: #0c5adb;
+}
+/*********************portfolio_end****************/
+
+
+@media screen and (max-width : 767px){
+.nav-tabs .nav-link{
+margin-bottom:8px; 
+ }
+.team_h_2m{
+margin-top:10px; 
+ }
+ }
+@media (min-width:768px) and (max-width:991px) {
+.nav-tabs .nav-link{
+margin-bottom:8px; 
+ }
+.team_h_2m  img{
+min-height:450px; 
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
