@@ -7,39 +7,24 @@
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
                             class="active" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
-                            aria-label="Slide 2" class="" aria-current="true"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
-                            aria-label="Slide 3"></button>
+
                     </div>
                     <div class="carousel-inner">
+
                         <div class="carousel-item active">
-                            <img src="{{ asset('img/1.png') }}" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
-                                <h4 class="mb-3">TOTAL SOLUTION HERE</h4>
-                                <h1 style="font-size:60px; line-height:1em;">Best IT solution agency for your Business
-                                </h1>
-                                <ul class="mb-0 mt-5">
-                                    <li style="margin-right:20px;" class="d-inline-block"><a class="button"
-                                            href="#">How It Work <i style="margin-left:5px;"
-                                                class="fa fa-long-arrow-right"></i></a></li>
-                                    <li class="d-inline-block"><a class="button_1" href="#">IT Services <i
-                                                style="margin-left:5px;" class="fa fa-long-arrow-right"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
                             <img src="img/2.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                                <h4 class="mb-3">TOTAL SOLUTION HERE</h4>
-                                <h1 style="font-size:60px; line-height:1em;">Best IT solution agency for your Business
+                                <h4 class="mb-3">Innovate. Promote. Entertain</h4>
+                                <h1 style="font-size:60px; line-height:1em;">Leading entertainment and promotion in
+                                    Malawi
+
                                 </h1>
                                 <ul class="mb-0 mt-5">
-                                    <li style="margin-right:20px;" class="d-inline-block"><a class="button"
-                                            href="#">How It Work <i style="margin-left:5px;"
-                                                class="fa fa-long-arrow-right"></i></a></li>
-                                    <li class="d-inline-block"><a class="button_1" href="#">IT Services <i
-                                                style="margin-left:5px;" class="fa fa-long-arrow-right"></i></a></li>
+                                    <li style="margin-right:20px;" class="d-inline-block">
+                                        <a class="button" href="#service">Our Service <i style="margin-left:5px;"
+                                                class="fa fa-long-arrow-right"></i></a>
+                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -81,52 +66,58 @@
                         <div class="col-md-3">
                             <div class="spec_1im text-center">
                                 <div class="spec_1i1">
+                                    <span><i class="fa fa-calendar"></i></span>
+                                    <h4 class="mt-2 mb-0">Established</h4>
+                                </div>
+                                <div class="spec_1i2" style="padding-top: 10px">
+                                    <h4 class="text-white">Established</h4>
+                                    <p class="text-light text-xs mb-2">
+                                        Founded in 2013 by Maurince and Sintha Chinthiti, SIMO has over a decade of
+                                        industry excellence.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="spec_1im text-center">
+                                <div class="spec_1i1">
                                     <span><i class="fa fa-globe"></i></span>
-                                    <h4 class="mt-2 mb-0">Provide all kind of IT Services</h4>
+                                    <h4 class="mt-2 mb-0">Global</h4>
                                 </div>
-                                <div class="spec_1i2">
-                                    <h4 class="text-white">Provide all kind of IT Services</h4>
-                                    <p class="text-light mb-0">Whether bringing new amazing products and services to
-                                        market</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="spec_1im text-center">
-                                <div class="spec_1i1">
-                                    <span><i class="fa fa-sitemap"></i></span>
-                                    <h4 class="mt-2 mb-0">Solution For All IT Security</h4>
-                                </div>
-                                <div class="spec_1i2">
-                                    <h4 class="text-white">Solution For All IT Security</h4>
-                                    <p class="text-light mb-0">Whether bringing new amazing products and services to
-                                        market</p>
+                                <div class="spec_1i2" style="padding-top: 10px">
+                                    <h4 class="text-white">Global</h4>
+                                    <p class="text-light mb-0">
+                                        Based in Malawi, SIMO’s innovative campaigns have earned international
+                                        recognition.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="spec_1im text-center">
                                 <div class="spec_1i1">
-                                    <span><i class="fa fa-building"></i></span>
-                                    <h4 class="mt-2 mb-0">All IT Consultancy Solution</h4>
+                                    <span><i class="fa fa-thumbs-up"></i></span>
+                                    <h4 class="mt-2 mb-0">Trusted</h4>
                                 </div>
-                                <div class="spec_1i2">
-                                    <h4 class="text-white">All IT Consultancy Solution</h4>
-                                    <p class="text-light mb-0">Whether bringing new amazing products and services to
-                                        market</p>
+                                <div class="spec_1i2" style="padding-top: 10px">
+                                    <h4 class="text-white">Trusted</h4>
+                                    <p class="text-light mb-0">
+                                        SIMO’s quality and reliability have earned the trust of many clients.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="spec_1im text-center">
                                 <div class="spec_1i1">
-                                    <span><i class="fa fa-user"></i></span>
-                                    <h4 class="mt-2 mb-0">Best Experience Engineer</h4>
+                                    <span><i class="fa fa-phone"></i></span>
+                                    <h4 class="mt-2 mb-0">Responsive</h4>
                                 </div>
-                                <div class="spec_1i2">
-                                    <h4 class="text-white">Best Experience Engineer</h4>
-                                    <p class="text-light mb-0">Whether bringing new amazing products and services to
-                                        market</p>
+                                <div class="spec_1i2" style="padding-top: 10px">
+                                    <h4 class="text-white">Responsive</h4>
+                                    <p class="text-light mb-0">
+                                        SIMO adapts to client needs, ensuring satisfaction with tailored solutions.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -144,43 +135,55 @@
                 <div class="col-md-6">
                     <div class="exep_1lm position-relative">
                         <div class="exep_1lm1">
-                            <img src="img/4.jpg" alt="abc">
+                            <img src="img/4.jpg" alt="abc" style="border-radius: 10px">
                         </div>
                         <div class="exep_1lm2 position-absolute w-100">
-                            <img src="img/5.jpg" alt="abc">
+                            <img src="img/5.jpg" alt="abc" style="border-radius: 10px">
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="exep_1r">
-                        <h5 style="letter-spacing:5px;" class="col_1">20 YEARS OF EXPERIENCE</h5>
-                        <h1>Preparing For Your Success
-                            Provide Best <span class="col_1">IT Solutions.</span></h1>
-                        <p>We are privileged to work with hundred future thinking awesom business including many of the
-                            world’s top hardware</p>
+                        <h5 style="letter-spacing:5px;" class="col_1">Over a Decade of Experience</h5>
+                        <h1>Preparing for Your Success with Premier
+                            Entertainment and Promotion
+                            Solutions.
+
+                        </h1>
+                        <p>
+                            We are privileged to work with many forward-thinking businesses, including top brands and
+                            organizations.
+                        </p>
                         <div class="exep_1ri row">
                             <div class="col-md-2">
                                 <div class="exep_1ril">
-                                    <span style="font-size:40px;" class="col_1"><i class="fa fa-warning"></i></span>
+                                    <span style="font-size:40px;" class="col_1">
+                                        <i class="fa fa-users"></i></span>
                                 </div>
                             </div>
                             <div class="col-md-10">
                                 <div class="exep_1rir">
-                                    <h5>Warranty Management</h5>
-                                    <p>Morem Ipsum is simply dummy text of the printing and pepesetting found.</p>
+                                    <h5>Events Management</h5>
+                                    <p>
+                                        We provide seamless and innovative event management services.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                         <div class="exep_1ri row mt-3">
                             <div class="col-md-2">
                                 <div class="exep_1ril">
-                                    <span style="font-size:40px;" class="col_1"><i class="fa fa-desktop"></i></span>
+                                    <span style="font-size:40px;" class="col_1">
+                                        <i class="fa fa-laptop"></i>
+                                    </span>
                                 </div>
                             </div>
                             <div class="col-md-10">
                                 <div class="exep_1rir">
                                     <h5>Quality Control System</h5>
-                                    <p>Morem Ipsum is simply dummy text of the printing and pepesetting found.</p>
+                                    <p>
+                                        Ensuring top-notch quality in all our entertainment and promotion services.
+                                    </p>
                                 </div>
                             </div>
                         </div>
