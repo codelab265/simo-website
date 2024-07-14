@@ -108,21 +108,5 @@
         </div>
     </section>
 
-    <section id="subs">
-        <div class="container">
-            <div class="row subs_1 text-center">
-                <div class="col-md-12">
-                    <h1 class="text-white">Subscribe Our Newsletter</h1>
-                    <div class="input-group mt-4">
-                        <input type="text" class="form-control form_2" placeholder="Enter Your Email">
-                        <span class="input-group-btn">
-                            <button class="btn btn-primary" type="button">
-                                Subscribe</button>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 </div>

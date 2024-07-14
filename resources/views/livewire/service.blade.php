@@ -299,5 +299,30 @@
         </div>
     </section>
 
+    <div class="join_m position-relative">
+        <div class="join_m1">
+            <section id="join">
+                <div class="container">
+                    <div class="row join_1 text-center">
+                        <div class="col-md-12">
+                            <div class="join_1l">
+                                <h5 style="font-weight:normal;" class="lspace text-white">
+                                    +265 (0) 1 759 290
+                                </h5>
+                                <h1 class="text-white">To make requests for the<br>
+                                    further information</h1>
+                                <p class="text-light">
+                                <h5 class="d-inline-block mt-3"><a class="button_2" href="{{ route('contact') }}"
+                                        wire:navigate>Follow the link<i style="margin-left:5px;"
+                                            class="fa fa-long-arrow-right"></i></a></h5>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+
+    </div>
     {{-- Because she competes with no one, no one can compete with her. --}}
 </div>

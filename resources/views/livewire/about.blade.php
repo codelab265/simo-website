@@ -25,17 +25,24 @@
                 </div>
                 <div class="col-md-6">
                     <div class="exep_1r">
-                        <h5 style="letter-spacing:5px;" class="col_1">20 YEARS OF EXPERIENCE</h5>
-                        <h1>Preparing For Your Success
-                            Provide Best <span class="col_1">IT Solutions.</span></h1>
-                        <h4>Voice and Data Systems are crucial to the success or failure of most businesses. any
-                            companies provide laptops, cell phones.</h4>
-                        <p>The standard chunk of Lorem Ipsum used since the 1500s is and reproduced below for those
-                            interested. Sections 1.10.32 and also 1.10.33 from “de Finibus Bonorum et Malorum" by Cicero
-                            are alse reproduced in their exact original form, accompanied</p>
-                        <p>The standard chunk of Lorem Ipsum used since the 1500s is and reproduced below for those
-                            interested</p>
-                        <h5 class="normal mb-0"><a class="button" href="#">More Details</a></h5>
+                        <h5 style="letter-spacing:5px;" class="col_1">
+                            About Us
+                        </h5>
+                        <h1>
+                            Your Partner in Innovative Entertainment and Effective Promotions
+                        </h1>
+
+                        <p>
+                            SIMO Entertainment and Promotion is a dynamic and growing company in Malawi, founded in 2013
+                            by Maurince and Sintha Chinthiti. We are dedicated to discovering new and innovative ways to
+                            promote our clients and their events. Our commitment extends beyond just business; we
+                            actively give back to the community, supporting various charitable organizations over the
+                            years. As leaders in the entertainment and promotion industry, we are passionate about
+                            making a significant impact and ensuring the success of every project we undertake.
+
+
+                        </p>
+
                     </div>
                 </div>
             </div>
@@ -48,79 +55,88 @@
                 <div class="col-md-3">
                     <div class="spec_1im text-center">
                         <div class="spec_1i1">
+                            <span><i class="fa fa-calendar"></i></span>
+                            <h4 class="mt-2 mb-0">Established</h4>
+                        </div>
+                        <div class="spec_1i2" style="padding-top: 10px">
+                            <h4 class="text-white">Established</h4>
+                            <p class="text-light text-xs mb-2">
+                                Founded in 2013 by Maurince and Sintha Chinthiti, SIMO has over a decade of
+                                industry excellence.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="spec_1im text-center">
+                        <div class="spec_1i1">
                             <span><i class="fa fa-globe"></i></span>
-                            <h4 class="mt-2 mb-0">Provide all kind of IT Services</h4>
+                            <h4 class="mt-2 mb-0">Global</h4>
                         </div>
-                        <div class="spec_1i2">
-                            <h4 class="text-white">Provide all kind of IT Services</h4>
-                            <p class="text-light mb-0">Whether bringing new amazing products and services to market</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="spec_1im text-center">
-                        <div class="spec_1i1">
-                            <span><i class="fa fa-sitemap"></i></span>
-                            <h4 class="mt-2 mb-0">Solution For All IT Security</h4>
-                        </div>
-                        <div class="spec_1i2">
-                            <h4 class="text-white">Solution For All IT Security</h4>
-                            <p class="text-light mb-0">Whether bringing new amazing products and services to market</p>
+                        <div class="spec_1i2" style="padding-top: 10px">
+                            <h4 class="text-white">Global</h4>
+                            <p class="text-light mb-0">
+                                Based in Malawi, SIMO’s innovative campaigns have earned international
+                                recognition.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="spec_1im text-center">
                         <div class="spec_1i1">
-                            <span><i class="fa fa-building"></i></span>
-                            <h4 class="mt-2 mb-0">All IT Consultancy Solution</h4>
+                            <span><i class="fa fa-thumbs-up"></i></span>
+                            <h4 class="mt-2 mb-0">Trusted</h4>
                         </div>
-                        <div class="spec_1i2">
-                            <h4 class="text-white">All IT Consultancy Solution</h4>
-                            <p class="text-light mb-0">Whether bringing new amazing products and services to market</p>
+                        <div class="spec_1i2" style="padding-top: 10px">
+                            <h4 class="text-white">Trusted</h4>
+                            <p class="text-light mb-0">
+                                SIMO’s quality and reliability have earned the trust of many clients.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="spec_1im text-center">
                         <div class="spec_1i1">
-                            <span><i class="fa fa-user"></i></span>
-                            <h4 class="mt-2 mb-0">Best Experience Engineer</h4>
+                            <span><i class="fa fa-phone"></i></span>
+                            <h4 class="mt-2 mb-0">Responsive</h4>
                         </div>
-                        <div class="spec_1i2">
-                            <h4 class="text-white">Best Experience Engineer</h4>
-                            <p class="text-light mb-0">Whether bringing new amazing products and services to market</p>
+                        <div class="spec_1i2" style="padding-top: 10px">
+                            <h4 class="text-white">Responsive</h4>
+                            <p class="text-light mb-0">
+                                SIMO adapts to client needs, ensuring satisfaction with tailored solutions.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <section id="choose">
         <div class="row choose1 m-0">
             <div class="col-md-6 p-0">
                 <div style="background: #2d2d2d; padding:20px 40px;" class="choose1l">
                     <h5 class="lspace text-light">WHY CHOOSE US</h5>
-                    <h2 class="text-white">We Provide World Class
-                        IT Solution</h2>
+                    <h2 class="text-white">
+                        Experience Excellence in Entertainment and Promotion
+                    </h2>
                     <hr style="width:100px; height:5px; margin-bottom:20px;" class="text-white">
                     <div class="accordion" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    <i style="margin-right:10px; font-size:16px;" class="fa fa-check-circle"></i> Best
-                                    IT Solution Provider
+                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    <i style="margin-right:10px; font-size:16px;" class="fa fa-check-circle"></i>
+                                    Innovative Solutions
                                 </button>
                             </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                        consequat.</p>
+                                    <p class="mb-0">
+                                        We constantly seek new and creative ways to enhance your events and promotions.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -130,16 +146,15 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     <i style="margin-right:10px; font-size:16px;" class="fa fa-check-circle"></i>
-                                    Experienced Engineers
+                                    Community Commitment
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                        consequat.</p>
+                                    <p class="mb-0">
+                                        We believe in giving back and supporting the communities we serve.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -150,19 +165,38 @@
                                     data-bs-target="#collapseThree" aria-expanded="false"
                                     aria-controls="collapseThree">
                                     <i style="margin-right:10px; font-size:16px;" class="fa fa-check-circle"></i>
-                                    Internet Of Things
+                                    Proven Track Record
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                        consequat.</p>
+                                    <p class="mb-0">
+                                        Our years of experience and successful projects speak for themselves.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    <i style="margin-right:10px; font-size:16px;" class="fa fa-check-circle"></i>
+                                    Comprehensive Services
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p class="mb-0">
+                                        From event management to brand activation, we offer a wide range of services to
+                                        meet your needs.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -177,7 +211,7 @@
     <section id="team_h">
         <div class="container">
             <div class="row team_h_1">
-                <div class="col-md-9">
+                <div class="col-md-12">
                     <div class="team_h_1l">
                         <h5 class="lspace col_1">TEAM MEMBER</h5>
                         <h1>Our Awesome Creative<br>
@@ -185,11 +219,7 @@
                         <hr style="width:100px; height:5px;" class="col_1">
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="team_h_1r">
-                        <h5 class="d-inline-block"><a class="button" href="#">Join Our Team</a></h5>
-                    </div>
-                </div>
+
             </div>
             <div class="row team_h_2 mt-3">
                 <div class="col-md-3">
@@ -207,8 +237,8 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Eget Nulla</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Maurice Chinthiti</h4>
+                        <h6 class="mb-0">Managing Director</h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -226,8 +256,10 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Nulla Port</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Sintha Chinthiti</h4>
+                        <h6 class="mb-0">
+                            Operation Director
+                        </h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -245,8 +277,10 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Dapibus Diam</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>John Mpelule</h4>
+                        <h6 class="mb-0">
+                            Audio Visual manager
+                        </h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -264,28 +298,39 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Semp Port</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Sumini Rudollf</h4>
+                        <h6 class="mb-0">
+                            Technical Expert
+                        </h6>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="subs">
-        <div class="container">
-            <div class="row subs_1 text-center">
-                <div class="col-md-12">
-                    <h1 class="text-white">Subscribe Our Newsletter</h1>
-                    <div class="input-group mt-4">
-                        <input type="text" class="form-control form_2" placeholder="Enter Your Email">
-                        <span class="input-group-btn">
-                            <button class="btn btn-primary" type="button">
-                                Subscribe</button>
-                        </span>
+    <div class="join_m position-relative">
+        <div class="join_m1">
+            <section id="join">
+                <div class="container">
+                    <div class="row join_1 text-center">
+                        <div class="col-md-12">
+                            <div class="join_1l">
+                                <h5 style="font-weight:normal;" class="lspace text-white">
+                                    +265 (0) 1 759 290
+                                </h5>
+                                <h1 class="text-white">To make requests for the<br>
+                                    further information</h1>
+                                <p class="text-light">
+                                <h5 class="d-inline-block mt-3"><a class="button_2" href="{{ route('contact') }}"
+                                        wire:navigate>Follow the link<i style="margin-left:5px;"
+                                            class="fa fa-long-arrow-right"></i></a></h5>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
-            </div>
+            </section>
         </div>
-    </section>
+
+    </div>
 </div>
