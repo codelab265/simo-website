@@ -207,48 +207,60 @@
                     <div class="col-md-4">
                         <div class="spec_1im  text-center ">
                             <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
-                                <span><i class="fa fa-user"></i></span>
-                                <h4 class="mt-3 text-white">Marketing Strategy</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
-                            </div>
-                            <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">Free Online Course</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="spec_1im  text-center ">
-                            <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
                                 <span><i class="fa fa-lightbulb-o"></i></span>
-                                <h4 class="mt-3 text-white">Interior Design</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
+                                <h4 class="mt-3 text-white">Events Management</h4>
+                                <p class="mb-0 text-light">
+                                    We deliver your event objectives innovatively and creatively, giving every....
+                                </p>
                             </div>
                             <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">Interior Design</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
+
+                                <p class="text-light">
+                                    We deliver your event objectives innovatively and creatively, giving every project
+                                    meticulous attention to detail. Trust SIMO Entertainment and Promotions for
+                                    unparalleled experience in the events sector.
+                                </p>
+
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="spec_1im  text-center ">
                             <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
-                                <span><i class="fa fa-desktop"></i></span>
-                                <h4 class="mt-3 text-white">Digital Services</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
+                                <span><i class="fa fa-gears"></i></span>
+                                <h4 class="mt-3 text-white">Corporate entertainment</h4>
+                                <p class="mb-0 text-light">
+                                    Some of the exciting and theme nights which we have successfully executed include...
+                                </p>
                             </div>
                             <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">Digital Services</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
+                                <h4 class="text-white">Corporate entertainment</h4>
+                                <p class="text-light">
+                                    Some of the exciting and theme nights which we have successfully executed include;
+                                    Corporate dinners, Company end of year cerebrations, Award gala ceremonies.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="spec_1im  text-center ">
+                            <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
+                                <span><i class="fa fa-microphone"></i></span>
+                                <h4 class="mt-3 text-white">Conferences audio & Visual services</h4>
+                                <p class="mb-0 text-light">
+                                    We specialize in comprehensive project management for technical and .....
+                                </p>
+                            </div>
+                            <div class="spec_1i2 bg-dark">
+                                <h4 class="text-white">Conferences audio & Visual services</h4>
+                                <p class="text-light">
+                                    We specialize in comprehensive project management for technical and non-technical
+                                    conferences, staff conferences, seminars, and workshops. Our checklist includes
+                                    lecterns, wireless radio microphones, audio-visual projectors, LCD screens, and
+                                    small PA systems.
+                                </p>
+
                             </div>
                         </div>
                     </div>
@@ -257,32 +269,100 @@
                     <div class="col-md-4">
                         <div class="spec_1im  text-center ">
                             <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
-                                <span><i class="fa fa-edit"></i></span>
-                                <h4 class="mt-3 text-white">Product Selling</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
+                                <span><i class="fa fa-bar-chart-o"></i></span>
+                                <h4 class="mt-3 text-white">Product / Service Promotions</h4>
+                                <p class="mb-0 text-light">
+                                    We promote clients' products/services so that the target audiences are well informed
+                                    about the product/service....
+                                </p>
                             </div>
                             <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">Online Product</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
+                                <h4 class="text-white">
+                                    Product / Service Promotions
+                                </h4>
+                                <p class="text-light">
+                                    We promote clients' products/services so that the target audiences are well informed
+                                    about the product/service. And why the should use such products/services. We aim at
+                                    increasing awareness, create interest, generate sales or create brand loyalty.
+                                </p>
+
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="spec_1im  text-center ">
                             <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
-                                <span><i class="fa fa-bar-chart-o"></i></span>
-                                <h4 class="mt-3 text-white">Product Design</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
+                                <span><i class="fa fa-pie-chart"></i></span>
+                                <h4 class="mt-3 text-white">
+                                    Brand activation
+                                </h4>
+                                <p class="mb-0 text-light">
+                                    We do provide our own staff for sampling, exercises, marketing and a full scale....
+                                </p>
                             </div>
                             <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">24/7 Support</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
+                                <h4 class="text-white">Brand activation</h4>
+                                <p class="text-light">
+                                    We do provide our own staff for sampling, exercises, marketing and a full scale road
+                                    show
+                                    in the areas below , Test marketing, Brand activation, Promotional services.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="spec_1im  text-center ">
+                            <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
+                                <span><i class="fa fa-home"></i></span>
+                                <h4 class="mt-3 text-white">
+                                    Outdoor / Indoor Public address equipment
+                                </h4>
+                                <p class="mb-0 text-light">
+                                    For over a dacade, we've specialized in lighting and sound solutions, offering:...
+                                </p>
+                            </div>
+                            <div class="spec_1i2 bg-dark">
+                                <h4 class="text-white">
+                                    Outdoor / Indoor Public address equipment
+                                </h4>
+                                <p class="text-light">
+                                    For over 10 years, we've specialized in lighting and sound solutions,
+                                    offering:Public address and lighting systems for events, Outdoor PA systems for
+                                    tournaments, sports days, festivals, and launches and Grounded or truss-mounted
+                                    setups using D&B Audiotechnik.
+                                </p>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row serv_2 mt-4 text-center">
+                    <div class="col-md-4">
+                        <div class="spec_1im  text-center ">
+                            <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
+                                <span><i class="fa fa-microphone"></i></span>
+                                <h4 class="mt-3 text-white">
+                                    Audio visual equipment
+                                </h4>
+                                <p class="mb-0 text-light">
+                                    We also offer AV equipment hire on short or long term basis. We have the
+                                    following....
+                                </p>
+                            </div>
+                            <div class="spec_1i2 bg-dark">
+                                <h4 class="text-white">Audio visual equipment</h4>
+                                <p class="text-light">
+                                    We also offer AV equipment hire on short or long term basis. We have the following
+                                    equipment for hire: AV projectors, AV projector stand-alone screens, projector &
+                                    Laptop stand/holder.
+                                </p>
+
+
+
                             </div>
                         </div>
                     </div>
@@ -290,15 +370,24 @@
                         <div class="spec_1im  text-center ">
                             <div class="spec_1i1 bg-transparent" style="border:1px solid #0c5adb;">
                                 <span><i class="fa fa-laptop"></i></span>
-                                <h4 class="mt-3 text-white">Digital Services</h4>
-                                <p class="mb-0 text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed
-                                    do eiusmo tempor incididunt ut labore</p>
+                                <h4 class="mt-3 text-white">
+                                    Band PA System
+                                </h4>
+                                <p class="mb-0 text-light">
+                                    PA systems created by our sound engineers specifically tailored for use by bands
+                                    playing....
+                                </p>
                             </div>
                             <div class="spec_1i2 bg-dark">
-                                <h4 class="text-white">Social Marketing</h4>
-                                <p class="text-light">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do
-                                    eiusmo tempor incididunt ut labore</p>
-                                <h5 class="d-inline-block"><a class="button_1" href="#">Read More</a></h5>
+                                <h4 class="text-white">Band PA System</h4>
+                                <p class="text-light">
+                                    PA systems created by our sound engineers specifically tailored for use by bands
+                                    playing to a variety of audience sizes. Most of our small band PA systems have
+                                    larger mixing desks with more channels and digital effects.
+                                </p>
+
+
+
                             </div>
                         </div>
                     </div>
@@ -310,7 +399,7 @@
     <section id="team_h">
         <div class="container">
             <div class="row team_h_1">
-                <div class="col-md-9">
+                <div class="col-md-12">
                     <div class="team_h_1l">
                         <h5 class="lspace col_1">TEAM MEMBER</h5>
                         <h1>Our Awesome Creative<br>
@@ -318,11 +407,7 @@
                         <hr style="width:100px; height:5px;" class="col_1">
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="team_h_1r">
-                        <h5 class="d-inline-block"><a class="button" href="#">Join Our Team</a></h5>
-                    </div>
-                </div>
+
             </div>
             <div class="row team_h_2 mt-3">
                 <div class="col-md-3">
@@ -340,8 +425,8 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Eget Nulla</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Maurice Chinthiti</h4>
+                        <h6 class="mb-0">Managing Director</h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -359,8 +444,10 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Nulla Port</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Sintha Chinthiti</h4>
+                        <h6 class="mb-0">
+                            Operation Director
+                        </h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -378,8 +465,10 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Dapibus Diam</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>John Mpelule</h4>
+                        <h6 class="mb-0">
+                            Audio Visual manager
+                        </h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -397,8 +486,10 @@
                         </div>
                     </div>
                     <div class="team_h_2ib text-center">
-                        <h4>Semp Port</h4>
-                        <h6 class="mb-0">CEO</h6>
+                        <h4>Sumini Rudollf</h4>
+                        <h6 class="mb-0">
+                            Technical Expert
+                        </h6>
                     </div>
                 </div>
             </div>
@@ -473,14 +564,15 @@
                     <div class="row join_1 text-center">
                         <div class="col-md-12">
                             <div class="join_1l">
-                                <h5 style="font-weight:normal;" class="lspace text-white">+ (1000) 456 7890</h5>
+                                <h5 style="font-weight:normal;" class="lspace text-white">
+                                    +265 (0) 1 759 290
+                                </h5>
                                 <h1 class="text-white">To make requests for the<br>
                                     further information</h1>
-                                <p class="text-light">We have the technology and industry expertise to develop
-                                    solutions that <br> can connect people and businesses across variety of mobile
-                                    devices.</p>
-                                <h5 class="d-inline-block mt-3"><a class="button_2" href="#">Join With Now <i
-                                            style="margin-left:5px;" class="fa fa-long-arrow-right"></i></a></h5>
+                                <p class="text-light">
+                                <h5 class="d-inline-block mt-3"><a class="button_2" href="{{ route('contact') }}"
+                                        wire:navigate>Follow the link<i style="margin-left:5px;"
+                                            class="fa fa-long-arrow-right"></i></a></h5>
                             </div>
                         </div>
 

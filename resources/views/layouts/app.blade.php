@@ -145,8 +145,12 @@
                 <div class="col-md-4">
                     <div class="footer_1i">
                         <img src="{{ asset('img/logo-white.png') }}" width="250" alt="" srcset="">
-                        <p class="mt-3 text-light">Condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem
-                            neque sed ipsum. Nam quam nunc, blandit vel, luctus.</p>
+                        <p class="mt-3 text-light">
+                            SIMO Entertainment and Promotion, founded in 2013 by Maurince and Sintha Chinthiti in
+                            Malawi, excels in innovative client and event promotion while prioritizing community support
+                            through ongoing charitable contributions, aiming to leave a lasting impact on the
+                            entertainment industry with each project's success.
+                        </p>
                         <ul class="mb-0">
                             <li class="d-inline-block"><a href="#">Follow Us</a></li>
                             <li class="d-inline-block"><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -160,28 +164,37 @@
                     <div class="footer_1i1">
                         <h4 class="text-white mb-4">Our Services</h4>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Marketing Strategy</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Events Management</a></h6>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Interior Design</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Corporate Entertainment</a></h6>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Digital Services</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Conferences Audio & Visual Services</a>
+                        </h6>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Product Selling</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Product/Service Promotions</a></h6>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Product Design</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Brand Activation</a></h6>
+                        <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
+                                class="fa fa-circle-o"></i> <a href="#">Outdoor/Indoor Public Address
+                                Equipment</a></h6>
+                        <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
+                                class="fa fa-circle-o"></i> <a href="#">Audio Visual Equipment</a></h6>
                         <h6 class="text-light normal mb-0"><i style="font-size:10px; margin-right:5px;"
-                                class="fa fa-circle-o"></i> <a href="#">Social Marketing</a></h6>
+                                class="fa fa-circle-o"></i> <a href="#">Band PA System</a></h6>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="footer_1i1">
                         <h4 class="text-white mb-3">Company Address</h4>
-                        <p class="text-light mb-1">Porem awesome dolor sitework amet, consetur acing elit, sed do
-                            eiusmod ligal</p>
-                        <p class="text-light mb-1"><span>Address :</span> 34/1 Old ahas dolini Atul, Melcorn Australia.
+
+                        <p class="text-light mb-1"><span>Address :</span> X Sacraine House, Area 4.
+                            Opp. Farming Engineering Services(FES)
+
+                            P O Box 1845,
+                            Lilongwe, Malawi
                         </p>
-                        <p class="text-light mb-1"><span>Phone :</span> + (1000) 456 7890</p>
-                        <p class="text-light mb-0"><span>Email :</span> info@gmail.com</p>
+                        <p class="text-light mb-1"><span>Phone :</span> +265 (0) 1 759 290</p>
+                        <p class="text-light mb-0"><span>Email :</span> info@simoentertainment.com</p>
                     </div>
                 </div>
 
@@ -189,8 +202,9 @@
             <div class="row footer_2">
                 <div class="col-md-12">
                     <div class="footer_2l">
-                        <p class="mb-0 col_2">© 2013 Your Website Name. All Rights Reserved | Design by <a
-                                class="col_2" href="http://www.templateonweb.com">TemplateOnWeb</a></p>
+                        <p class="mb-0 col_2">© {{ date('Y') }} SIMO Entertainment. All Rights Reserved
+                            {{-- | Design
+                            by <a class="col_2" href="https://mphatso.codelab265.com">Codelab265</a> --}}</p>
                     </div>
                 </div>
 
