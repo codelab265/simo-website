@@ -12,6 +12,11 @@
     <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/global.css') }}" rel="stylesheet">
     <link href="{{ asset('css/index.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/contact.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/about.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/services.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/portfolio.css') }}" rel="stylesheet">
+
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
     <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
@@ -60,13 +65,22 @@
                         </a>
                         <div class="header_resp-right float-end">
                             <a class={{ request()->routeIs('home') ? 'active_tab' : 's' }} href="{{ route('home') }}"
-                                wire:navigate>Home</a>
-                            <a class={{ request()->routeIs('about') ? 'active_tab' : 's' }} href="{{ route('about') }}"
-                                wire:navigate>About</a>
+                                wire:navigate>
+                                Home
+                            </a>
+                            <a class={{ request()->routeIs('about') ? 'active_tab' : 's' }}
+                                href="{{ route('about') }}" wire:navigate>
+                                About
+                            </a>
+
+                            <a class={{ request()->routeIs('service') ? 'active_tab' : 's' }}
+                                href="{{ route('service') }}" wire:navigate>
+                                Services
+                            </a>
 
 
-                            <a class={{ request()->routeIs('portfolio') ? 'active_tab' : 's' }} href="portfolio.html"
-                                wire:navigate>Portfolio</a>
+                            <a class={{ request()->routeIs('portfolio') ? 'active_tab' : 's' }}
+                                href={{ route('portfolio') }} wire:navigate>Portfolio</a>
 
                             <a class={{ request()->routeIs('contact') ? 'active_tab' : 's' }}
                                 href={{ route('contact') }} wire:navigate>Contact</a>

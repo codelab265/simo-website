@@ -5,11 +5,11 @@ namespace App\Livewire;
 use Livewire\Attributes\Title;
 use Livewire\Component;
 
-class Contact extends Component
+class Portfolio extends Component
 {
-    #[Title('Contact Us')]
+    #[Title('Portfolio')]
     public function render()
     {
-        return view('livewire.contact')->layout('layouts.app');
+        return view('livewire.portfolio')->layout('layouts.app');
     }
 }
