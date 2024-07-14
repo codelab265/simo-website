@@ -97,7 +97,9 @@
                             <a class={{ request()->routeIs('contact') ? 'active_tab' : 's' }}
                                 href={{ route('contact') }} wire:navigate>Contact</a>
 
-                            <a class="quote" href={{ route('contact') }} wire:navigate>Get Started</a>
+                            <a class="quote" href={{ route('contact') }} wire:navigate>
+                                Book now
+                            </a>
 
                         </div>
 
