@@ -65,13 +65,13 @@
                                 wire:navigate>About</a>
 
 
-                            <a class={{ request()->routeIs('portfolio') ? 'active_tab' : 's' }}
-                                href="portfolio.html">Portfolio</a>
+                            <a class={{ request()->routeIs('portfolio') ? 'active_tab' : 's' }} href="portfolio.html"
+                                wire:navigate>Portfolio</a>
 
                             <a class={{ request()->routeIs('contact') ? 'active_tab' : 's' }}
-                                href="contact.html">Contact</a>
+                                href={{ route('contact') }} wire:navigate>Contact</a>
 
-                            <a class="quote" href="#">Get A Quote</a>
+                            <a class="quote" href="#">Get Started</a>
 
                         </div>
 
