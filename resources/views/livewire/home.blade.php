@@ -14,7 +14,7 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="img/1.jpg" class="d-block w-100" alt="...">
+                            <img src="{{ asset('img/1.png') }}" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h4 class="mb-3">TOTAL SOLUTION HERE</h4>
                                 <h1 style="font-size:60px; line-height:1em;">Best IT solution agency for your Business
@@ -29,7 +29,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/2.jpg" class="d-block w-100" alt="...">
+                            <img src="img/2.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h4 class="mb-3">TOTAL SOLUTION HERE</h4>
                                 <h1 style="font-size:60px; line-height:1em;">Best IT solution agency for your Business
@@ -43,7 +43,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="carousel-item">
+                        {{-- <div class="carousel-item">
                             <img src="img/3.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h4 class="mb-3">TOTAL SOLUTION HERE</h4>
@@ -57,7 +57,7 @@
                                                 style="margin-left:5px;" class="fa fa-long-arrow-right"></i></a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
                         data-bs-slide="prev">
@@ -402,7 +402,7 @@
         </div>
     </section>
 
-    <section id="feature">
+    {{-- <section id="feature">
         <div class="container">
             <div class="row team_h_1 text-center">
                 <div class="col-md-12">
@@ -459,45 +459,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
-    <section id="case">
-        <div class="container">
-            <div class="row team_h_1 text-center">
-                <div class="col-md-12">
-                    <h5 class="lspace col_1">FEATURES CASE</h5>
-                    <h1>Our Working Process</h1>
-                    <hr style="width:100px; margin-left:auto; margin-right:auto; height:5px;" class="col_1">
-                </div>
-            </div>
-            <div class="row case_1 mt-3 text-center">
-                <div class="col-md-4">
-                    <div class="case_1i">
-                        <h5 class="d-inline-block">1</h5>
-                        <h4 class="mt-2">Select A Project</h4>
-                        <p class="mb-0">We have the technology and industry expertise to develop solutions that can
-                            connect people and businesses across variety of mobile devices.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="case_1i">
-                        <h5 class="d-inline-block">2</h5>
-                        <h4 class="mt-2">Project Analysis</h4>
-                        <p class="mb-0">We have the technology and industry expertise to develop solutions that can
-                            connect people and businesses across variety of mobile devices.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="case_1i">
-                        <h5 class="d-inline-block">3</h5>
-                        <h4 class="mt-2">Deliver Result</h4>
-                        <p class="mb-0">We have the technology and industry expertise to develop solutions that can
-                            connect people and businesses across variety of mobile devices.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <div class="join_m position-relative">
         <div class="join_m1">
@@ -521,229 +485,9 @@
                 </div>
             </section>
         </div>
-        <div class="join_m2 position-absolute">
-            <section id="client">
-                <div class="container">
-                    <div class="row client_1">
-                        <div class="col-md-3">
-                            <div class="client_1i text-center">
-                                <h1>12K</h1>
-                                <h5 class="col_1 mb-0">Happy Clients</h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="client_1i text-center">
-                                <h1>1160+</h1>
-                                <h5 class="col_1 mb-0">Account Number</h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="client_1i text-center">
-                                <h1>15K</h1>
-                                <h5 class="col_1 mb-0">Finished Projects</h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="client_1i text-center">
-                                <h1>800+</h1>
-                                <h5 class="col_1 mb-0">Win Awards</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
+
     </div>
 
-    <section id="testim">
-        <div class="container">
-            <div class="row testim_1 text-center">
-                <h5 class="lspace col_1">TESTIMONIAL</h5>
-                <h1 class="mb-0">What Says<br>
-                    Our Happy Clients</h1>
-                <hr style="width:100px; margin-left:auto; margin-right:auto; height:5px;" class="col_1">
-            </div>
-            <div class="row testim_2 mt-3">
-                <div class="col-md-4">
-                    <div class="testim_2i">
-                        <div class="testim_2i1">
-                            <p class="mb-0">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do eiusmo
-                                tempor incididunt ut labore</p>
-                        </div>
-                        <div class="testim_2i2 mt-4">
-                            <img src="img/14.jpg" alt="abc">
-                            <h4>Dapibus Diam</h4>
-                            <h5 class="col_1">Founder</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="testim_2i">
-                        <div class="testim_2i1">
-                            <p class="mb-0">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do eiusmo
-                                tempor incididunt ut labore</p>
-                        </div>
-                        <div class="testim_2i2 mt-4">
-                            <img src="img/15.jpg" alt="abc">
-                            <h4>Semp Port</h4>
-                            <h5 class="col_1">Founder</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="testim_2i">
-                        <div class="testim_2i1">
-                            <p class="mb-0">Lorem ipsum dolor sit amcon sectetur adipisicing elit, sed do eiusmo
-                                tempor incididunt ut labore</p>
-                        </div>
-                        <div class="testim_2i2 mt-4">
-                            <img src="img/16.jpg" alt="abc">
-                            <h4>Eget Nulla</h4>
-                            <h5 class="col_1">Founder</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section id="quote">
-        <div class="container">
-            <div class="row quote_1 text-center">
-                <h5 class="lspace text-light">GET QUOTE</h5>
-                <h1 class="mb-0 text-white">Make An <br>
-                    Free Consultant</h1>
-                <hr style="width:100px; margin-left:auto; margin-right:auto; height:5px;" class="text-white">
-            </div>
-            <div class="row quote_2 mt-3 text-center">
-                <div class="col-md-6">
-                    <div class="quote_2l">
-                        <input placeholder="Name" class="form-control" type="text">
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="quote_2l">
-                        <input placeholder="Email Address" class="form-control" type="text">
-                    </div>
-                </div>
-            </div>
-            <div class="row quote_2 mt-4 text-center">
-                <div class="col-md-6">
-                    <div class="quote_2l">
-                        <input placeholder="Phone Number" class="form-control" type="text">
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="quote_2l">
-                        <input placeholder="Website" class="form-control" type="text">
-                    </div>
-                </div>
-            </div>
-            <div class="row quote_2 mt-4 text-center">
-                <div class="col-md-12">
-                    <div class="quote_2l">
-                        <textarea style="height:200px;" placeholder="Write a Message" class="form-control"></textarea>
-                    </div>
-                </div>
-            </div>
-            <div class="row quote_2 mt-4 text-center">
-                <div class="col-md-12">
-                    <div class="quote_2l">
-                        <h5 class="d-inline-block mt-3"><a class="button_2" href="#"> Free Consultancy </a>
-                        </h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section id="blog_h">
-        <div class="container">
-            <div class="row team_h_1">
-                <div class="col-md-9">
-                    <div class="team_h_1l">
-                        <h5 class="lspace col_1">LATEST ARTICLE</h5>
-                        <h1>See Our Latest<br>
-                            Blog Posts</h1>
-                        <hr style="width:100px; height:5px;" class="col_1">
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="team_h_1r">
-                        <h5 class="d-inline-block"><a class="button" href="#">See All Blogs</a></h5>
-                    </div>
-                </div>
-            </div>
-            <div class="row blog_h1 mt-3">
-                <div class="col-md-4">
-                    <div class="blog_h1i">
-                        <div class="grid clearfix">
-                            <figure class="effect-jazz mb-0">
-                                <a href="#"><img src="img/17.jpg" class="w-100" alt="img25"></a>
-                            </figure>
-                        </div>
-                        <div class="blog_h1i1">
-                            <h5 class="normal">Tech IT / January 9, 2022</h5>
-                            <h4><a href="#">The five devices you need to work anytime</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on
-                                labore et dolore.</p>
-                            <h5 class="mb-0"><a href="#">Read More <i style="margin-left:5px;"
-                                        class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="blog_h1i">
-                        <div class="grid clearfix">
-                            <figure class="effect-jazz mb-0">
-                                <a href="#"><img src="img/18.jpg" class="w-100" alt="img25"></a>
-                            </figure>
-                        </div>
-                        <div class="blog_h1i1">
-                            <h5 class="normal">Tech IT / January 9, 2022</h5>
-                            <h4><a href="#">The five devices you need to work anytime</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on
-                                labore et dolore.</p>
-                            <h5 class="mb-0"><a href="#">Read More <i style="margin-left:5px;"
-                                        class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="blog_h1i">
-                        <div class="grid clearfix">
-                            <figure class="effect-jazz mb-0">
-                                <a href="#"><img src="img/19.jpg" class="w-100" alt="img25"></a>
-                            </figure>
-                        </div>
-                        <div class="blog_h1i1">
-                            <h5 class="normal">Tech IT / January 9, 2022</h5>
-                            <h4><a href="#">The five devices you need to work anytime</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on
-                                labore et dolore.</p>
-                            <h5 class="mb-0"><a href="#">Read More <i style="margin-left:5px;"
-                                        class="fa fa-long-arrow-right"></i></a></h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="subs">
-        <div class="container">
-            <div class="row subs_1 text-center">
-                <div class="col-md-12">
-                    <h1 class="text-white">Subscribe Our Newsletter</h1>
-                    <div class="input-group mt-4">
-                        <input type="text" class="form-control form_2" placeholder="Enter Your Email">
-                        <span class="input-group-btn">
-                            <button class="btn btn-primary" type="button">
-                                Subscribe</button>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 </div>

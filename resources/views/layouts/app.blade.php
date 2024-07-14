@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
-        {{ $title ?? 'Page Title' }}
+        {{ $title ?? 'Page Title' }} - SIMO
     </title>
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
@@ -31,12 +31,24 @@
                 <div class="col-md-9">
                     <div class="top1l">
                         <ul class="mb-0">
-                            <li class="d-inline-block"><a href="#"><i style="margin-right:5px;"
-                                        class="fa fa-envelope"></i> info@gmail.com</a></li>
-                            <li class="d-inline-block"><a href="#"><i style="margin-right:5px;"
-                                        class="fa fa-map-marker"></i> 14/5, 2nd Floor, Porta</a></li>
-                            <li class="d-inline-block"><a href="#"><i style="margin-right:5px;"
-                                        class="fa fa-phone"></i> + (1000) 456 7890</a></li>
+                            <li class="d-inline-block">
+                                <a href="#">
+                                    <i style="margin-right:5px;" class="fa fa-envelope"></i>
+                                    info@simoentertainment.com
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="#">
+                                    <i style="margin-right:5px;" class="fa fa-map-marker"></i>
+                                    X Sacraine House, Area 4.
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="#">
+                                    <i style="margin-right:5px;" class="fa fa-phone"></i>
+                                    +265 (0) 1 759 290
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -85,7 +97,7 @@
                             <a class={{ request()->routeIs('contact') ? 'active_tab' : 's' }}
                                 href={{ route('contact') }} wire:navigate>Contact</a>
 
-                            <a class="quote" href="#">Get Started</a>
+                            <a class="quote" href={{ route('contact') }} wire:navigate>Get Started</a>
 
                         </div>
 
@@ -132,9 +144,7 @@
             <div class="row footer_1">
                 <div class="col-md-4">
                     <div class="footer_1i">
-                        <h2 style="font-size:32px;"><a href="index.html" class="text-white"><i
-                                    style="margin-right:5px;" class="fa fa-building-o text-primary"></i> Tech IT</a>
-                        </h2>
+                        <img src="{{ asset('img/logo-white.png') }}" width="250" alt="" srcset="">
                         <p class="mt-3 text-light">Condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem
                             neque sed ipsum. Nam quam nunc, blandit vel, luctus.</p>
                         <ul class="mb-0">
@@ -146,7 +156,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-4">
                     <div class="footer_1i1">
                         <h4 class="text-white mb-4">Our Services</h4>
                         <h6 class="text-light normal"><i style="font-size:10px; margin-right:5px;"
@@ -163,7 +173,7 @@
                                 class="fa fa-circle-o"></i> <a href="#">Social Marketing</a></h6>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="footer_1i1">
                         <h4 class="text-white mb-3">Company Address</h4>
                         <p class="text-light mb-1">Porem awesome dolor sitework amet, consetur acing elit, sed do
@@ -174,54 +184,16 @@
                         <p class="text-light mb-0"><span>Email :</span> info@gmail.com</p>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="footer_1i2">
-                        <h4 class="text-white mb-3">Popular Post</h4>
-                        <div class="footer_1i2i m-0 row">
-                            <div class="col-md-4">
-                                <div class="footer_1i2il">
-                                    <img src="img/14.jpg" class="w-100" alt="abc">
-                                </div>
-                            </div>
-                            <div class="col-md-8">
-                                <div class="footer_1i2ir">
-                                    <p class="mb-1"><a class="text-light" href="#">Tiktok Illegally data
-                                            sharing</a></p>
-                                    <h6 class="col_2">December 19, 2022</h6>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="footer_1i2i row m-0 mt-2 pt-3" style="border-top:1px solid #1250b9;">
-                            <div class="col-md-4">
-                                <div class="footer_1i2il">
-                                    <img src="img/15.jpg" class="w-100" alt="abc">
-                                </div>
-                            </div>
-                            <div class="col-md-8">
-                                <div class="footer_1i2ir">
-                                    <p class="mb-1"><a class="text-light" href="#">Tiktok Illegally data
-                                            sharing</a></p>
-                                    <h6 class="col_2">December 19, 2022</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
             <div class="row footer_2">
-                <div class="col-md-8">
+                <div class="col-md-12">
                     <div class="footer_2l">
                         <p class="mb-0 col_2">© 2013 Your Website Name. All Rights Reserved | Design by <a
                                 class="col_2" href="http://www.templateonweb.com">TemplateOnWeb</a></p>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="footer_2r">
-                        <p class="col_2 mb-0"><a class="col_2" href="#">Privacy Policy</a> <span
-                                style="margin-left:10px; margin-right:10px;">/</span> <a class="col_2"
-                                href="#">Terms & Conditions</a></p>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>
