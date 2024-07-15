@@ -111,29 +111,14 @@
     </section>
 
     <div class="mynav" id="mynav">
-        <a href="index.html" class="brand"><i style="margin-right:5px;" class="fa fa-building-o col_1"></i> Tech IT</a>
-        <a class="active m_tag" href="index.html">Home</a>
-        <a class="m_tag" href="about.html">About</a>
-        <div class="dropdown">
-            <button class="dropbtn m_tag">Blog
-                <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="drop-content">
-                <a href="blog.html">Blog</a>
-                <a href="blog_detail.html">Blog Detail</a>
-            </div>
-        </div>
-        <div class="dropdown">
-            <button class="dropbtn m_tag">Services
-                <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="drop-content">
-                <a href="services.html">Services</a>
-                <a href="service_detail.html">Service Detail</a>
-            </div>
-        </div>
-        <a class="m_tag" href="portfolio.html">Portfolio</a>
-        <a class="m_tag" href="contact.html">Contact</a>
+        <a href="index.html" class="brand">
+            <img src={{ asset('img/logo.png') }} width="250px" />
+        </a>
+        <a class="active m_tag" href="{{ route('home') }}" wire:navigate>Home</a>
+        <a class="m_tag" href="{{ route('about') }}" wire:navigate>About</a>
+        <a class="m_tag" href="{{ route('service') }}" wire:navigate>Services</a>
+        <a class="m_tag" href="{{ route('portfolio') }}" wire:navigate>Portfolio</a>
+        <a class="m_tag" href="{{ route('contact') }}" wire:navigate>Contact</a>
 
         <a href="javascript:void(0);" style="font-size:15px;" class="icon" onClick="myFunction()"><i
                 class="fa fa-bars"></i></a>
